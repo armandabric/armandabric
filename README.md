@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Armand 👋
 
 <!--
 **armandabric/armandabric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm an experienced full stack developer (15y+) in building custom tailored software and leading development teams.

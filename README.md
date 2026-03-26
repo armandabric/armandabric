@@ -6,4 +6,4 @@ I'm a JavaScript & TypeScript developer from Marseille 🇫🇷, passionate abou
 - 🌱 I'm currently learning more about smart home protocols and IoT
 - 💬 Ask me about **JavaScript**, **TypeScript**, **React**, **Node.js**, **Rollup**, or **Solr**
 - 🛠️ I've built tools like [prettier-plugin-gherkin](https://github.com/armandabric/prettier-plugin-gherkin) — a Prettier plugin for formatting Gherkin (`.feature`) files
-- ⚡ Fun fact: I once gave a React experience talk at [MarseillsJS](https://github.com/armandabric/marseillejs-react-xp-presentation)
+- ⚡ Fun fact: I once gave a React experience talk at [MarseilleJS](https://github.com/armandabric/marseillejs-react-xp-presentation)

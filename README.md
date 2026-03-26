@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm an experienced full stack developer (15y+) in building custom tailored software and leading development teams.
+I'm a JavaScript & TypeScript developer from Marseille 🇫🇷, passionate about building great web experiences and open-source tooling.
